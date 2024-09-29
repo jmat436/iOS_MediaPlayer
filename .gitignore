@@ -1,0 +1,23 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore node_modules folder (if using Node.js)
+node_modules/
+
+# Ignore compiled code and temporary files
+*.class
+*.o
+*.pyc
+*.swp
+
+# Ignore Xcode files (if you're working on an iOS project)
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+
+# Ignore environment files
+.env
+
